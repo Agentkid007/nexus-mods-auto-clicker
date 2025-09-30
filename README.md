@@ -38,6 +38,15 @@ Notes
 - Some pages use dropdowns; the extension attempts to open common toggles, then rescans.
 - Be mindful of Nexus Mods’ and Vortex’s Terms of Service. Avoid excessive automation.
 
+FAQ
+**Q: Do I need to do anything else for this autoclicker to work for Nexus Mods and Vortex?**
+A: No, the installation steps above are all you need! Just:
+1. For Nexus Mods web pages: Install the Edge extension (steps 1-3 under "Install: Edge Extension")
+2. For Vortex app: Install AutoHotkey and run vortex_autoclicker.ahk (steps 1-2 under "Install: Vortex Auto Clicker")
+3. Make sure to check "Always allow" when Edge prompts to open Vortex with nxm:// links
+
+That's it! No additional configuration, downloads, or setup required.
+
 Troubleshooting
 - If nothing clicks: ensure you’re logged in, on the Files tab, and no overlays block the page.
 - When Edge prompts for nxm://, check “Always allow”.
